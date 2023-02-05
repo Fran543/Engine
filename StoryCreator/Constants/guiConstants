@@ -1,0 +1,18 @@
+const STORY_FORM_ID = "storyCreator";
+const STORY_FORM_CLASS = "storyCreatorClass";
+
+const STORY_FORM_NAME_INPUT_NAME = "Name";
+const STORY_FORM_NAME_INPUT_ID = "storyNameID";
+const STORY_FORM_NAME_INPUT_CLASS = "storyNameInputClass";
+const STORY_FORM_NAME_LABEL_CLASS = "storyNameLabelClass";
+const STORY_FORM_NAME_LABEL_TEXT = "Name";
+
+const STORY_FORM_PLOT_INPUT_NAME = "Plot";
+const STORY_FORM_PLOT_INPUT_ID = "storyPlotId";
+const STORY_FORM_PLOT_INPUT_CLASS = "storyPlotInputClass";
+const STORY_FORM_PLOT_LABEL_CLASS = "storyPlotLabelClass";
+const STORY_FORM_PLOT_LABEL_TEXT = "Plot";
+
+const STORY_FORM_CREATE_BUTTON_ID = "btnCreate";
+const STORY_FORM_CREATE_BUTTON_CLASS = "btnCreate";
+const STORY_FORM_CREATE_BUTTON_TEXT = "Create";
